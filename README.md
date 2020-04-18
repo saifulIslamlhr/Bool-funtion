@@ -1,2 +1,2 @@
 # Bool-function
-This program is about a function which tells is it true or false.
+This program is about a function which tells is a example true or false.
